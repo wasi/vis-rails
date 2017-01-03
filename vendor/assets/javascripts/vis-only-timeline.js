@@ -15,9 +15,13 @@
 //= require_relative ../vis/timeline/component/TimeAxis
 //= require_relative ../vis/timeline/component/CurrentTime
 //= require_relative ../vis/timeline/component/CustomTime
-//= require_tree ../vis/timeline/component/item
+//= require_relative ../vis/timeline/component/item/BackgroundItem.js
+//= require_relative ../vis/timeline/component/item/BoxItem.js
+//= require_relative ../vis/timeline/component/item/Item.js
+//= require_relative ../vis/timeline/component/item/PointItem.js
+//= require_relative ../vis/timeline/component/item/RangeItem.js
 //= require_relative ../vis/timeline/component/ItemSet
 //= require_relative ../vis/timeline/component/Group
 //= require_relative ../vis/timeline/Timeline
 
-//= require ./module/exports-only-timeline
+//= require module/exports-only-timeline

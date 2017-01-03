@@ -1,3 +1,13 @@
 /*
- *= require_tree ../vis/timeline/component/css
+ *= require_relative ../vis/timeline/component/css/animation.css
+ *= require_relative ../vis/timeline/component/css/currenttime.css
+ *= require_relative ../vis/timeline/component/css/customtime.css
+ *= require_relative ../vis/timeline/component/css/dataaxis.css
+ *= require_relative ../vis/timeline/component/css/item.css
+ *= require_relative ../vis/timeline/component/css/itemset.css
+ *= require_relative ../vis/timeline/component/css/labelset.css
+ *= require_relative ../vis/timeline/component/css/panel.css
+ *= require_relative ../vis/timeline/component/css/pathStyles.css
+ *= require_relative ../vis/timeline/component/css/timeaxis.css
+ *= require_relative ../vis/timeline/component/css/timeline.css
  */
